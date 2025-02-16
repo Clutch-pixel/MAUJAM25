@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: c6655d92fd1c0b8459b8f3f1d805fe0b
+  productGUID: 2cd9392d9c162c54784a9fbbe1a416c2
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Platformer Tutorial
+  productName: My project (1)
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -609,14 +609,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Platformer Tutorial
+  metroPackageName: My project (1)
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Platformer Tutorial
+  metroApplicationDescription: My project (1)
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -687,10 +687,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 55276412-228b-4e74-b4e7-dbb3ffa10f6a
+  cloudProjectId: df3bb874-f8d5-4b78-b1c7-87c20052f8fe
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Platformer Tutorial
+  projectName: My project (1) 2025-02-16_11-58-14
   organizationId: berkesaribardak555
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

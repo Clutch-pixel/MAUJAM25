@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Wall
+  - Ground
+  - thorn
+  - Enemy
+  - Light
+  - New tag
+  - Son
   layers:
   - Default
   - TransparentFX
@@ -11,8 +18,8 @@ TagManager:
   - Ground
   - Water
   - UI
-  - 
-  - 
+  - wall
+  - Light
   - 
   - 
   - 
